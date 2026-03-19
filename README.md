@@ -2,6 +2,11 @@
 
 ## Descripción 
 
+Integrantes 
+Emanuel 
+Angel
+Morejon
+
 La aplicación Calculadora con Árbol de Expresión es un programa desarrollado en Java que permite al usuario ingresar expresiones matemáticas en notación infija para analizarlas, procesarlas y obtener su resultado.
 
 El sistema implementa estructuras de datos, específicamente árboles binarios de expresión, para representar de forma jerárquica cada operación matemática. A partir de la expresión ingresada, el programa realiza una conversión a notación postfija, construye el árbol correspondiente y ejecuta distintos recorridos (inorden, preorden y postorden) para mostrar la estructura de la expresión.
